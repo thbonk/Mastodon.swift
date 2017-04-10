@@ -1,0 +1,11 @@
+// Increment the build number whenever you modify the version string.
+VERSION_STRING = 1.0.1
+BUILD_NUMBER = 1
+
+PROJECT_NAME = MastodonClient
+BUNDLE_IDENTIFIER_BASE = hu.lorentey.$(PROJECT_NAME)
+
+IPHONEOS_DEPLOYMENT_TARGET = 9.3
+MACOSX_DEPLOYMENT_TARGET = 10.10
+
+APPLICATION_EXTENSION_API_ONLY = YES

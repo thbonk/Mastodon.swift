@@ -1,0 +1,7 @@
+# Dependencies
+github "Alamofire/Alamofire" ~> 4.4
+github "hkellaway/Gloss"
+github "spxrogers/Moya-Gloss"
+github "Moya/Moya"
+github "antitypical/Result"
+github "ReactiveX/RxSwift" ~> 3.0
